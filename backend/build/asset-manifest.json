@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c432224e.css",
+    "main.js": "/static/js/main.785c55bf.js",
+    "static/media/chef.jpg": "/static/media/chef.9cc822367a19f1c5d45d.jpg",
+    "static/media/dinner.jpg": "/static/media/dinner.9872d7a566f672a23fb7.jpg",
+    "static/media/burger1.jpg": "/static/media/burger1.b314fad18dceb1eab147.jpg",
+    "static/media/drinks.jpg": "/static/media/drinks.caa211c4f1b54a3b98d6.jpg",
+    "static/media/nachos.jpg": "/static/media/nachos.395394ae31051e1371e6.jpg",
+    "static/media/appetizer.jpg": "/static/media/appetizer.9f31df9611c633b7608b.jpg",
+    "static/media/instant.jpg": "/static/media/instant.8fea995b27c43a19f4dd.jpg",
+    "static/media/healthy.jpg": "/static/media/healthy.2f29acf07bd62a1f7a41.jpg",
+    "static/media/meat.jpg": "/static/media/meat.19f9601af1bb1df38613.jpg",
+    "static/media/vegan.jpg": "/static/media/vegan.ac3b439a625eac031bd7.jpg",
+    "static/media/dessert.jpg": "/static/media/dessert.865b5179f966d4c198b5.jpg",
+    "static/media/pizza.jpg": "/static/media/pizza.0bc3e3d5eaeba8cc10e4.jpg",
+    "static/media/salad.jpg": "/static/media/salad.abe2e5ae47198f48f291.jpg",
+    "static/media/burger.jpg": "/static/media/burger.3c8103793b8dd34385d3.jpg",
+    "static/media/breakfast2.jpg": "/static/media/breakfast2.e4ee38cc82e95ca2a999.jpg",
+    "static/media/breakfast.jpg": "/static/media/breakfast.074f015e30917cf74067.jpg",
+    "index.html": "/index.html",
+    "main.c432224e.css.map": "/static/css/main.c432224e.css.map",
+    "main.785c55bf.js.map": "/static/js/main.785c55bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c432224e.css",
+    "static/js/main.785c55bf.js"
+  ]
+}
